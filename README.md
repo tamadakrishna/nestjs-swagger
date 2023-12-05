@@ -14,7 +14,19 @@
 ## Installation
 
 ```bash
+$ git clone https://github.com/tamadakrishna/nestjs-swagger.git
+
+$ cd nestjs-swagger
+
 $ npm install
+
+$ npm run start
+```
+
+## Swagger Installation
+
+```bash
+$ npm install --save @nestjs/swagger
 ```
 
 ## Running the app
@@ -32,5 +44,5 @@ $ npm run start:prod
 
 ## Stay in touch
 
-- Author - [tamada krishna](https://github.com/tamadakrishna)
+- Author - [tamada krishna](https://www.linkedin.com/in/tamadakrishna/)
 
